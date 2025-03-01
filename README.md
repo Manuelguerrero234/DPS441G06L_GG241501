@@ -6,8 +6,9 @@
 Este proyecto es una tienda en línea de productos tecnológicos desarrollada con **React** y **Next.js**. Permite a los usuarios ver productos, agregarlos al carrito, eliminar productos y generar una factura.
 
 ## Integrantes
-- [Manuel Ezequiel Guerrero Granados GG241501](enlace a GitHub)
+- [Manuel Ezequiel Guerrero Granados GG241501]
 
+  
 ## Características
 - **Lista de productos**: Muestra 20 productos en una cuadrícula de 3x3.
 - **Carrito de compras**: Permite agregar, eliminar y vaciar productos.
